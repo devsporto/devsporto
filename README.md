@@ -5,7 +5,8 @@ Amante da tecnologia, buscando evoluir esse perfil com o tempo
 [![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https:///linkedin.com/in/devsporto)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devsporto&show_icons=true&theme=dracula)
-[![Porto Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsporto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsporto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias utilizadas nos meus projetos
 
